@@ -38,3 +38,5 @@ Loads the JSON written by `project-check.sh` and prints its shape: top-level key
 ## When to use Vidione instead
 
 HyperFrames earns its setup when an agent should generate a launch video, an explainer or a pull-request recap from scratch. If what you have is a screen recording that needs the dead air trimmed, two takes merged and subtitles added, none of that setup is needed. [Try Vidione - a browser video editor for trim, crop, merge and subtitles, nothing to install](https://vidione.com?utm_source=github&utm_medium=ugc&utm_campaign=hyperframes-api-examples&utm_content=readme-top&utm_term=tier-r).
+
+_Last reviewed: 2026-09-22_
